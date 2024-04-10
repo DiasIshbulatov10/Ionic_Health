@@ -1,10 +1,6 @@
-## 'Dawn' Mobile Mental Health Application in Ionic
+## Mobile Mental Health Application in Ionic
 A hybrid mobile mental health application designed for North Tyneside Clinical Commissioning Group (CCG) and implemented using the Ionic SDK. Provides information on self-help, local services, motivational media and mood journal & tracker features. 
 
-### Demo
-To view a demo of this application on your phone:
-
-Download Ionic View and use the code 3e5bf44c to view.
 
 ### Setup
 Requirements to use this project:
@@ -54,12 +50,3 @@ $ ionic cordova build ios
 ```
 
 Substitute ios for android if not on a Mac. For more information about installing visit https://ionicframework.com/docs/v1/guide/installation.html.
-
-
-### Contributors
-Aisha Ahmed
-(ucabat1), 
-Jason Deakin
-(j4sond3ak1n), 
-Caroline Smith
-(carolinesmith123)
